@@ -1,9 +1,7 @@
 {
-    "id": "paper-document",
     "name": "Paper Document",
     "version": "0.1.0",
     "minAppVersion": "1.0.0",
     "author": "Tim Jefferies",
-    "description": "A theme that emulates the look and feel of Google Docs.",
-    "modes": ["light", "dark"]
+    "authorUrl": "https://github.com/tim-projects/obsidian-paper-document-theme"
 }
