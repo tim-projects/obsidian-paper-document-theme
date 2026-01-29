@@ -1,5 +1,6 @@
 {
     "name": "Paper Document",
+    "description": "A theme that emulates the look and feel of Google Docs.",
     "version": "0.1.0",
     "minAppVersion": "1.0.0",
     "author": "Tim Jefferies"
